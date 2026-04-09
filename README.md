@@ -71,6 +71,16 @@ This project explores:
 - Content production is concentrated in the United States, with growing contributions from India and the UK  
 
 ---
+## 🔹 Business Insight Approach
+
+This project goes beyond data visualization by focusing on how insights can support real business decisions.
+
+Instead of only presenting trends, the analysis is structured to answer:
+- What is happening in the data  
+- Why these patterns exist  
+- How they impact business strategy  
+
+The goal is to bridge the gap between data analysis and decision-making by translating findings into actionable insights.
 
 ## 🔹 Business Recommendations
 - Shift from volume-driven to quality-focused content strategy  
