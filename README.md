@@ -31,7 +31,10 @@ This project explores:
 - Power BI – Interactive dashboard and visualization  
 
 ---
+## Dashboard Preview
+![Dashboard](Screenshot 2026-04-09 184328.png)
 
+---
 ## 🔹 Project Workflow
 
 ### 1. Data Cleaning (Python)
