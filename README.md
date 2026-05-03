@@ -32,7 +32,7 @@ This project explores:
 
 ---
 ## Dashboard Preview
-![Dashboard] (Screenshot 2026-04-09 184328.png)
+![Dashboard](Screenshot 2026-04-09 184328.png)
 
 ---
 ## 🔹 Project Workflow
